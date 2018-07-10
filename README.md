@@ -6,6 +6,7 @@ int c;
 public static void main(String[] args)
 {
 c=a+b;
+
 }
 System.out.println(c);
 }
