@@ -9,6 +9,6 @@ c=a+b;
 
 }
 System.out.println(c);
-System.out.println("Testing with GIT GUI");
+System.out.println("Test for Pull");
 }
 Updated code
