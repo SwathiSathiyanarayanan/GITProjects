@@ -9,6 +9,5 @@ c=a+b;
 
 }
 System.out.println(c);
-System.out.println("Test for Pull");
+System.out.println("GIT HUB Code Updated");
 }
-Updated code
